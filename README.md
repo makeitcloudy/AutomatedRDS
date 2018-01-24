@@ -1,6 +1,7 @@
 # AutomatedRDS
 Unatended installation of Remote Desktop Services
  PowerShell script which installs the Remote Desktop Services 2016 in unatended way
+ 
  test conditions:
  - Windows Server 2016
  - WMF5.1
