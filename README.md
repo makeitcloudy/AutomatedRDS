@@ -7,7 +7,7 @@ Unatended installation of Remote Desktop Services
  - WMF5.1
 
  it should work on:
- - Windows Server 2012
+ - Windows Server 2012R2
  - WMF5
 
  has not been tested on:
