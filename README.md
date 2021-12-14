@@ -21,4 +21,4 @@ Unatended installation of Remote Desktop Services<br>
  this is a rewritten version of https://github.com/citrixguyblog/PowerShellRDSDeployment<br>
  
  **#places worth to follow for the RDS context**<br>
- + https://mehic.se/category/remote-desktop-services-2016/
+ + https://mehic.se/category/remote-desktop-services-2016/<br>
