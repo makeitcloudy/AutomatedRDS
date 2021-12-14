@@ -1,19 +1,22 @@
-# AutomatedRDS
-Unatended installation of Remote Desktop Services
- PowerShell script which installs the Remote Desktop Services 2016 in unatended way
+**#AutomatedRDS**<br>
+Unatended installation of Remote Desktop Services<br>
+ PowerShell script which installs the Remote Desktop Services 2016 in unatended way<br>
  
- test conditions:
- - Windows Server 2016
- - WMF5.1
+ test conditions:<br>
+ - Windows Server 2016<br>
+ - WMF5.1<br>
 
- it should work on:
- - Windows Server 2012R2
- - WMF5
+ it should work on:<br>
+ - Windows Server 2012R2<br>
+ - WMF5<br>
 
- has not been tested on:
- - Windows Server 2012
- - WMF4
+ has not been tested on:<br>
+ - Windows Server 2012<br>
+ - WMF4<br>
 
- all variables are stored in psd1 files
+ all variables are stored in psd1 files<br>
  
- this is a rewritten version of https://github.com/citrixguyblog/PowerShellRDSDeployment
+ this is a rewritten version of https://github.com/citrixguyblog/PowerShellRDSDeployment<br>
+ 
+ **#places worth to follow for the RDS context**<br>
+ + https://mehic.se/category/remote-desktop-services-2016/
