@@ -1,6 +1,6 @@
 **#AutomatedRDS**<br>
 
-**disclaimer** Current code left much to be desired, never the less it did the trick, for quick lab deployment. Similar things can be achieved with GUI, or other products available here and there, but still back then when was creating this it was a bit of challenge for me.<br><br>
+**disclaimer** *Current code left much to be desired, never the less it did the trick, for quick lab deployment. Similar things can be achieved with GUI, or other products available here and there, but still back then when was creating this it was a bit of challenge for me.*<br><br>
 Unatended installation of Remote Desktop Services<br>
  PowerShell script which installs the Remote Desktop Services 2016 in unatended way<br>
  
