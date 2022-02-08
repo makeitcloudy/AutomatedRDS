@@ -22,3 +22,5 @@ Unatended installation of Remote Desktop Services<br>
  
  **#places worth to follow for the RDS context**<br>
  + https://mehic.se/category/remote-desktop-services-2016/<br>
+
+![rds2016_multi_deployment](https://user-images.githubusercontent.com/28138611/153015202-af021a46-dfe8-4d5e-a5bd-99538c622fc9.gif)
